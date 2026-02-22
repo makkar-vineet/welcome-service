@@ -7,8 +7,6 @@ spring:
       client:
         url: http://localhost:8181
 
-server:
-  port: 8081
 
 management:
   endpoints:
